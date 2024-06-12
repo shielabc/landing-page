@@ -1,5 +1,5 @@
 body {
-    font-family: Tahoma, "Trebuchet MS", sans-serif;
+    font-family: Roboto, Tahoma, sans-serif;
     margin: auto; /* to center all body of the site */
     background-color: white;
     color: #1f2937;
@@ -156,7 +156,7 @@ article p {
 }
 
 p.reviews {
-    font-size: 2em;
+    font-size: 36px;
     font-style: italic;
     color: #1f2937;
 }
